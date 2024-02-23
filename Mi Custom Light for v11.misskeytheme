@@ -1,0 +1,17 @@
+{
+	id: '93f613d6-41ba-4dd9-b327-b067d7d23d99',
+	base: 'light',
+	name: 'Mi Custom Light for v11',
+	vars: {
+		text: '#5D7475',
+		primary: '#34A1C9',
+		secondary: '#f5f5f5',
+	},
+	props: {
+		renoteText: '$primary',
+		quoteBorder: '$primary',
+		renoteGradient: '#2b9e83',
+		desktopPostFormBg: '#f5f5f5',
+	},
+	author: '@kemuri@misskey.io',
+}

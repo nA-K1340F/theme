@@ -1,0 +1,17 @@
+{
+	id: '61a75e90-08bd-48af-8765-db680eac0485',
+	base: 'dark',
+	name: 'Mi Custom Dark for v11',
+	vars: {
+		text: '#fdfdfd',
+		primary: '#34A1C9',
+		secondary: '#212121',
+	},
+	props: {
+		renoteText: '$primary',
+		quoteBorder: '$primary',
+		renoteGradient: '#2b9e83',
+		desktopPostFormBg: '#212121',
+	},
+	author: '@kemuri@misskey.io',
+}
